@@ -270,7 +270,7 @@
             "require": {
                 "doctrine/instantiator": "^1.0.5",
                 "ext-tokenizer": "*",
-                "php": "^7.1, <7.4",
+                "php": "^7.1, <7.5",
                 "phpspec/php-diff": "^1.0.0",
                 "phpspec/prophecy": "^1.7",
                 "sebastian/exporter": "^1.0 || ^2.0 || ^3.0",
